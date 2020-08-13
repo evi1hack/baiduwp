@@ -1,5 +1,8 @@
 # baiduwp
 PanDownload Web, built with CloudFlare Workers
+
+Cloudflare Workers：https://www.cloudflare.com/zh-cn/products/cloudflare-workers/
+
 # Demo
 No longer available due to abuse.
 # Usage
